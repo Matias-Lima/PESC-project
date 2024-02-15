@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1189mm"
+   height="841mm"
+   viewBox="0 0 4493.8584 3178.5828"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="03_Apresentação.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="3949.9999"
+     inkscape:cy="2052"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g94859-6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid305" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="104.09198"
+       y="185.41384"
+       width="774.1841"
+       height="507.4484"
+       id="rect2588" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath87">
+      <path
+         d="M 0,595.276 H 841.89 V 0 H 0 Z"
+         id="path85" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3074">
+      <path
+         d="m 0,595.273 841.891,0.004 V 0 H 0 Z"
+         id="path3072" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3082">
+      <path
+         d="M 0,-0.724003 H 842.00002 V 595.27601 L 0,595.27601 Z"
+         id="path3080" />
+    </clipPath>
+    <linearGradient
+       x1="450.25034"
+       y1="290.73813"
+       x2="918.29425"
+       y2="-59.456635"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       id="linearGradient3088">
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0"
+         id="stop3084" />
+      <stop
+         style="stop-opacity:0;stop-color:#ffffff"
+         offset="1"
+         id="stop3086" />
+    </linearGradient>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask3090">
+      <g
+         id="g3096">
+        <g
+           clip-path="url(#clipPath3082)"
+           id="g3094">
+          <path
+             d="M 0,-0.724003 H 842.00002 V 595.27601 L 0,595.27601 Z"
+             style="fill:url(#linearGradient3088);stroke:none"
+             id="path3092" />
+        </g>
+      </g>
+    </mask>
+    <linearGradient
+       x1="450.25034"
+       y1="290.73813"
+       x2="918.29425"
+       y2="-59.456635"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       id="linearGradient3104">
+      <stop
+         style="stop-opacity:1;stop-color:#5eb8ec"
+         offset="0"
+         id="stop3100" />
+      <stop
+         style="stop-opacity:1;stop-color:#5eb8ec"
+         offset="1"
+         id="stop3102" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3114">
+      <path
+         d="M 0,0 H 842 V 596 H 0 Z"
+         id="path3112" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask3122">
+      <g
+         id="g3130">
+        <g
+           clip-path="url(#clipPath3114)"
+           id="g3128">
+          <g
+             id="g3126">
+            <path
+               d="M 0,0 H 841.89001 V 595.276 H 0 Z"
+               style="fill:url(#linearGradient3088);fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path3124" />
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3138">
+      <path
+         d="M 0,0 H 842 V 596 H 0 Z"
+         id="path3136" />
+    </clipPath>
+    <linearGradient
+       x1="450.25034"
+       y1="290.73813"
+       x2="918.29425"
+       y2="-59.456635"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,0,595.276)"
+       spreadMethod="pad"
+       id="linearGradient3144">
+      <stop
+         style="stop-opacity:1;stop-color:#000000"
+         offset="0"
+         id="stop3140" />
+      <stop
+         style="stop-opacity:1;stop-color:#000000"
+         offset="1"
+         id="stop3142" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3166">
+      <path
+         d="M 0,0 H 842 V 596 H 0 Z"
+         id="path3164" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53877">
+      <path
+         d="m 707.114,461.137 -21.192,-34.595 21.69,-35.405 h 0.033 l 20.725,33.825 v 3.185 l -20.208,32.99 z"
+         id="path53875" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53889">
+      <path
+         d="m 792.214,314.232 10.63,-17.143 10.634,17.149 -10.629,17.137 z m -33.069,-15.263 17.776,-9.531 0.636,20.168 -17.774,9.527 z m 72.17,11.592 0.636,-20.155 9.939,5.326 v 20.499 z m -102.707,-23.563 9.529,-17.781 20.162,0.635 -9.535,17.783 z m -10.93,-43.417 17.142,-10.634 17.144,10.63 -17.149,10.633 z m 12.242,-43.065 20.163,-0.639 9.531,17.777 -20.168,0.636 z m 31.498,-11.019 0.636,-20.156 17.782,9.529 -0.634,20.161 z m 67.623,-11.592 12.849,-6.889 v 20.508 l -12.211,6.544 z m -36.827,-3.466 10.488,-16.914 h 0.284 l 10.492,16.919 -10.629,17.138 z"
+         id="path53887" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53901">
+      <path
+         d="m 404.389,418.494 21.706,-35.431 21.222,34.634 v 0.808 z m 0.463,-70.608 h 42.465 v 0.065 l -21.211,34.622 z"
+         id="path53899" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53913">
+      <path
+         d="m 499.188,527.993 44.255,0.012 v 1.259 l -21.736,35.481 z"
+         id="path53911" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53925">
+      <path
+         d="m 635.368,45.157 -17.454,26.312 0.149,-31.03 -29.153,14.562 16.659,-26.764 -33.04,-1.09 L 601.232,11.821 581.059,0 h 114.452 l -24.716,13.197 28.075,16.45 -33.057,-0.218 15.586,27.402 -28.554,-15.705 -1.079,31.013 z"
+         id="path53923" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53939">
+      <path
+         d="M 0,595.276 H 841.89 V 0 H 0 Z"
+         id="path53937" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath54341">
+      <path
+         d="M 0,0 H 841.89 V 595.276 H 0 Z"
+         id="path54339" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath54361">
+      <path
+         d="M 0,0 H 841.89 V 595.276 H 0 Z"
+         id="path54359" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath54395">
+      <path
+         d="M 0,595.276 H 841.89 V 0 H 0 Z"
+         id="path54393" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64216">
+      <g
+         inkscape:label="Clip"
+         id="use64218">
+        <path
+           class="st2"
+           d="m 769.38733,317.99245 v 114.75 c 0,70.73 44.59,121.29 110.59,121.29 h 29.15 c 58.51,0 94.77597,-40.3115 108.92997,-98.01 v 0 l -0.6027,-137.74384 z m 207.5,113.27 c 0,40.98 -25.37,68.51 -63.14,68.51 h -40.45 c -37.2,0 -63.21,-28.19 -63.21,-68.51 v -59 h 166.76 v 59 z m 40.56727,-112.98384 c -1974.09773,-273.07181 -987.048864,-136.5359 0,0 z"
+           id="path67929"
+           style="fill:#213c47"
+           sodipodi:nodetypes="cssscccccssscccccc" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64216-3">
+      <g
+         inkscape:label="Clip"
+         id="use64218-3">
+        <path
+           class="st2"
+           d="m 769.38733,317.99245 v 114.75 c 0,70.73 44.59,121.29 110.59,121.29 h 29.15 c 58.51,0 94.77597,-40.3115 108.92997,-98.01 v 0 l -0.6027,-137.74384 z m 207.5,113.27 c 0,40.98 -25.37,68.51 -63.14,68.51 h -40.45 c -37.2,0 -63.21,-28.19 -63.21,-68.51 v -59 h 166.76 v 59 z m 40.56727,-112.98384 c -1974.09773,-273.07181 -987.048864,-136.5359 0,0 z"
+           id="path68013"
+           style="fill:#213c47"
+           sodipodi:nodetypes="cssscccccssscccccc" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64216-2">
+      <g
+         inkscape:label="Clip"
+         id="use64218-0">
+        <path
+           class="st2"
+           d="m 769.38733,317.99245 v 114.75 c 0,70.73 44.59,121.29 110.59,121.29 h 29.15 c 58.51,0 94.77597,-40.3115 108.92997,-98.01 v 0 l -0.6027,-137.74384 z m 207.5,113.27 c 0,40.98 -25.37,68.51 -63.14,68.51 h -40.45 c -37.2,0 -63.21,-28.19 -63.21,-68.51 v -59 h 166.76 v 59 z m 40.56727,-112.98384 c -1974.09773,-273.07181 -987.048864,-136.5359 0,0 z"
+           id="path67765"
+           style="fill:#213c47"
+           sodipodi:nodetypes="cssscccccssscccccc" />
+      </g>
+    </clipPath>
+    <rect
+       x="104.09198"
+       y="185.41384"
+       width="774.1841"
+       height="507.4484"
+       id="rect2588-9" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath87-1">
+      <path
+         d="M 0,595.276 H 841.89 V 0 H 0 Z"
+         id="path85-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3074-5">
+      <path
+         d="m 0,595.273 841.891,0.004 V 0 H 0 Z"
+         id="path3072-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3082-4">
+      <path
+         d="M 0,-0.724003 H 842.00002 V 595.27601 L 0,595.27601 Z"
+         id="path3080-8" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask3090-9">
+      <g
+         id="g3096-6">
+        <g
+           clip-path="url(#clipPath3082-4)"
+           id="g3094-9">
+          <path
+             d="M 0,-0.724003 H 842.00002 V 595.27601 L 0,595.27601 Z"
+             style="fill:url(#linearGradient3088);stroke:none"
+             id="path3092-0" />
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3114-9">
+      <path
+         d="M 0,0 H 842 V 596 H 0 Z"
+         id="path3112-2" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="mask3122-0">
+      <g
+         id="g3130-7">
+        <g
+           clip-path="url(#clipPath3114-9)"
+           id="g3128-4">
+          <g
+             id="g3126-8">
+            <path
+               d="M 0,0 H 841.89001 V 595.276 H 0 Z"
+               style="fill:url(#linearGradient3088);fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path3124-7" />
+          </g>
+        </g>
+      </g>
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3138-3">
+      <path
+         d="M 0,0 H 842 V 596 H 0 Z"
+         id="path3136-7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3166-1">
+      <path
+         d="M 0,0 H 842 V 596 H 0 Z"
+         id="path3164-2" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3144"
+       id="linearGradient3486"
+       x1="0.5"
+       y1="297.63751"
+       x2="841.38898"
+       y2="297.63751"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0016186,0,0,1.0020614,-0.50080928,-0.7250332)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53877-5">
+      <path
+         d="m 707.114,461.137 -21.192,-34.595 21.69,-35.405 h 0.033 l 20.725,33.825 v 3.185 l -20.208,32.99 z"
+         id="path53875-8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53889-6">
+      <path
+         d="m 792.214,314.232 10.63,-17.143 10.634,17.149 -10.629,17.137 z m -33.069,-15.263 17.776,-9.531 0.636,20.168 -17.774,9.527 z m 72.17,11.592 0.636,-20.155 9.939,5.326 v 20.499 z m -102.707,-23.563 9.529,-17.781 20.162,0.635 -9.535,17.783 z m -10.93,-43.417 17.142,-10.634 17.144,10.63 -17.149,10.633 z m 12.242,-43.065 20.163,-0.639 9.531,17.777 -20.168,0.636 z m 31.498,-11.019 0.636,-20.156 17.782,9.529 -0.634,20.161 z m 67.623,-11.592 12.849,-6.889 v 20.508 l -12.211,6.544 z m -36.827,-3.466 10.488,-16.914 h 0.284 l 10.492,16.919 -10.629,17.138 z"
+         id="path53887-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53901-2">
+      <path
+         d="m 404.389,418.494 21.706,-35.431 21.222,34.634 v 0.808 z m 0.463,-70.608 h 42.465 v 0.065 l -21.211,34.622 z"
+         id="path53899-0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53913-3">
+      <path
+         d="m 499.188,527.993 44.255,0.012 v 1.259 l -21.736,35.481 z"
+         id="path53911-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53925-3">
+      <path
+         d="m 635.368,45.157 -17.454,26.312 0.149,-31.03 -29.153,14.562 16.659,-26.764 -33.04,-1.09 L 601.232,11.821 581.059,0 h 114.452 l -24.716,13.197 28.075,16.45 -33.057,-0.218 15.586,27.402 -28.554,-15.705 -1.079,31.013 z"
+         id="path53923-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath53939-9">
+      <path
+         d="M 0,595.276 H 841.89 V 0 H 0 Z"
+         id="path53937-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath54341-7">
+      <path
+         d="M 0,0 H 841.89 V 595.276 H 0 Z"
+         id="path54339-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath54361-7">
+      <path
+         d="M 0,0 H 841.89 V 595.276 H 0 Z"
+         id="path54359-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath54395-7">
+      <path
+         d="M 0,595.276 H 841.89 V 0 H 0 Z"
+         id="path54393-9" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64216-38">
+      <g
+         inkscape:label="Clip"
+         id="use64218-5">
+        <path
+           class="st2"
+           d="m 769.38733,317.99245 v 114.75 c 0,70.73 44.59,121.29 110.59,121.29 h 29.15 c 58.51,0 94.77597,-40.3115 108.92997,-98.01 v 0 l -0.6027,-137.74384 z m 207.5,113.27 c 0,40.98 -25.37,68.51 -63.14,68.51 h -40.45 c -37.2,0 -63.21,-28.19 -63.21,-68.51 v -59 h 166.76 v 59 z m 40.56727,-112.98384 c -1974.09773,-273.07181 -987.048864,-136.5359 0,0 z"
+           id="path67929-7"
+           style="fill:#213c47"
+           sodipodi:nodetypes="cssscccccssscccccc" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64216-3-2">
+      <g
+         inkscape:label="Clip"
+         id="use64218-3-4">
+        <path
+           class="st2"
+           d="m 769.38733,317.99245 v 114.75 c 0,70.73 44.59,121.29 110.59,121.29 h 29.15 c 58.51,0 94.77597,-40.3115 108.92997,-98.01 v 0 l -0.6027,-137.74384 z m 207.5,113.27 c 0,40.98 -25.37,68.51 -63.14,68.51 h -40.45 c -37.2,0 -63.21,-28.19 -63.21,-68.51 v -59 h 166.76 v 59 z m 40.56727,-112.98384 c -1974.09773,-273.07181 -987.048864,-136.5359 0,0 z"
+           id="path68013-9"
+           style="fill:#213c47"
+           sodipodi:nodetypes="cssscccccssscccccc" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64216-2-9">
+      <g
+         inkscape:label="Clip"
+         id="use64218-0-1">
+        <path
+           class="st2"
+           d="m 769.38733,317.99245 v 114.75 c 0,70.73 44.59,121.29 110.59,121.29 h 29.15 c 58.51,0 94.77597,-40.3115 108.92997,-98.01 v 0 l -0.6027,-137.74384 z m 207.5,113.27 c 0,40.98 -25.37,68.51 -63.14,68.51 h -40.45 c -37.2,0 -63.21,-28.19 -63.21,-68.51 v -59 h 166.76 v 59 z m 40.56727,-112.98384 c -1974.09773,-273.07181 -987.048864,-136.5359 0,0 z"
+           id="path67765-0"
+           style="fill:#213c47"
+           sodipodi:nodetypes="cssscccccssscccccc" />
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g15"
+       inkscape:label="Manual_01"
+       transform="matrix(2.625771,0,0,-3.6209063,390.20868,2442.6737)">
+      <text
+         transform="scale(1,-1)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Warownia;-inkscape-font-specification:'Warownia Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text21"
+         x="82.148743"
+         y="-355.29016"><tspan
+           x="82.148743 91.598747 99.758743 107.19875 128.76874 148.71875 169.41875 189.00874 208.02875 227.61874 250.95874 266.73575 287.40576 308.25574 328.92575"
+           y="-355.29016"
+           sodipodi:role="line"
+           id="tspan19">1. APRESENTAÇÃO</tspan></text>
+      <text
+         transform="matrix(1,0,0,-1,713.2604,114.0282)"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text69"><tspan
+           x="0"
+           y="0"
+           id="tspan67" /></text>
+      <g
+         id="g94859"
+         transform="matrix(1.1571489,0,0,1.2931407,-96.940598,-17.560834)">
+        <text
+           transform="matrix(1,0,0,-1,426.9449,301.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text25"><tspan
+             sodipodi:role="line"
+             id="tspan23"
+             y="0"
+             x="0 7.1830001 9.7790003 19.931999 26.059 30.195 36.035999 42.162998 44.758999 50.875 53.471001 59.928001 62.523998 69.156998 75.273003 85.426003 88.022003 98.175003 104.302 107.052 112.728 115.324 120.824 126.951 129.701 132.451 138.798 144.375 150.832 153.42799 160.061 166.562 172.67799 175.274 181.77499 191.92799 198.05499 200.651 206.767 216.92 223.55299 227.689 233.69501 239.261 245.388 247.98399 254.44099 260.94199 263.53799 270.039 280.19199 286.20901"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">A marca é o bem mais valioso que uma empresa ou uma</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,284.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text29"><tspan
+             sodipodi:role="line"
+             id="tspan27"
+             y="0"
+             x="0 6.6329999 12.639 18.205 23.782 30.129 36.256001 38.852001 45.485001 51.942001 58.575001 64.691002 67.287003 71.313004 77.429001 81.884003 84.480003 90.596001 93.192001 98.867996 105.369 111.496 114.092 117.293 123.926 130.04201 136.543 140.668 143.418 150.05099 156.17799 162.811 168.927 171.19299 178.332 181.082 186.758 193.259 199.386 202.136 204.73199 210.84801 213.444 217.58 223.586 229.26199 235.895 242.35201 248.853 254.41901 260.436 265.87 271.98599 274.73599 277.332 283.965 290.422 294.767"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">pessoa pode ter e sua Identidade Visual é responsável por</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,267.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text33"><tspan
+             sodipodi:role="line"
+             id="tspan62624"
+             x="0"
+             y="0">traduzir graficamente toda a essência que ela representa.</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,233.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text37"><tspan
+             sodipodi:role="line"
+             id="tspan35"
+             y="0"
+             x="0 7.9749999 18.128 24.254999 26.851 37.004002 43.131001 47.266998 53.108002 59.235001 61.831001 65.350998 71.807999 76.263 80.289001 86.404999 89.000999 95.501999 101.618 107.47 113.476 119.042 124.718 127.468 131.549 137.67599 140.272 146.905 153.021 155.617 162.118 168.619 171.369 174.88901 181.34599 185.80099 195.95399 198.70399 205.33701 211.464 218.097 224.213 226.80901 232.925 235.521 241.373 247.83 253.946 258.082 264.198 270.69901 276.64999 279.39999 285.52701 288.14499">Uma marca forte necessita de uniformidade e coerência,</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,216.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text41"><tspan
+             sodipodi:role="line"
+             id="tspan39"
+             y="0"
+             x="0 6.6329999 13.09 17.545 20.141001 22.891001 28.457001 34.034 40.491001 43.087002 46.606998 53.063999 57.310001 63.437 73.589996 76.185997 82.137001 86.592003 89.342003 95.469002 102.102 108.449 114.125 116.721 123.244 129.371 136.004 140.162 146.619 152.625 158.30099 160.897 167.53 174.03101 180.147 182.743 188.72701 194.854 199.10001 205.22701 211.728 215.754 221.87 232.02299 234.619 241.252 247.75301 253.869 256.465 260.491 266.948 273.58099 279.92801 285.49399">por isso foram criados padrões que garantem que todos</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,199.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text45"><tspan
+             x="0 6.3470001 12.023 14.619 20.735001 23.485001 29.601 39.754002 45.869999 52.370998 56.396999 62.743999 68.419998 71.015999 77.022003 82.587997 86.613998 92.730003 95.480003 101.607 111.76 114.356 117.106 123.607 127.633 133.74899 140.063 144.30901 150.436 157.069 163.416 169.092 171.688 177.804 187.957 190.55299 194.57899 201.036 207.66901 213.79601 219.472 222.06799 228.19501 233.871 236.467 246.62 252.74699 259.24799 261.99799 265.51801 271.52509"
+             sodipodi:role="line"
+             id="tspan43"
+             y="0">os elementos estejam integrados em todas as manifes</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,704.1423,199.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text49"><tspan
+             x="0"
+             y="0"
+             id="tspan47">-</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,182.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text53"><tspan
+             x="0 4.0809999 10.208 16.082001 22.539 28.545 34.221001 36.817001 43.131001 47.376999 53.504002 59.928001 65.768997 71.896004 77.571999 80.167999 84.205002 86.801003 93.433998 99.934998 106.051 108.647 111.397 117.898 123.849 126.599 133.10001 135.85001 138.446 141.196 147.653 153.74699 160.20399 164.32899 167.07899 173.71201 179.839 182.567 185.16299 189.28799 192.03799 198.67101 205.12801 211.442 215.688 221.815 228.239 234.366 236.96201 243.078 245.674 251.526 257.983 262.11899 268.125 273.80099 276.397 280.32401"
+             y="0"
+             sodipodi:role="line"
+             id="tspan51">tações gráfcas - que inclui logotipo, tipografa e cores -</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,165.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text57"><tspan
+             x="0 5.9840002 12.111 16.357 22.483999 28.985001 33.110001 35.860001 42.361 48.993999 55.451 58.047001 64.547997 71.049004 73.799004 77.319 83.776001 88.231003 98.384003 101.134 107.767 113.894 120.527 126.643 129.239 135.355 137.951 144.452 150.57899 155.034 165.187 171.644 178.145 180.895 187.022 189.64"
+             y="0"
+             id="tspan55"
+             sodipodi:role="line">garantindo uniformidade e harmonia.</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,131.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text61"><tspan
+             x="0 8.2720003 10.868 17.325001 23.958 26.708 32.824001 36.949001 39.699001 45.132999 51.59 54.186001 60.819 66.824997 72.390999 76.417 82.532997 85.128998 94.82 100.947 107.448 113.949 120.076 122.826 125.422 131.53799 134.134 140.591 145.04601 147.79601 153.912 160.41299 164.494 170.621 175.076 177.672 183.78799 186.384 189.90401 196.03101 201.98199 204.73199 207.48199 210.23199 214.3141 220.4411 224.8961 227.4921 233.61909 236.2151 242.71609 246.84109 249.59109 252.34109 255.09109 260.6571 266.78409 272.64819 278.77521 285.12219"
+             y="0"
+             sodipodi:role="line"
+             id="tspan59">O objetivo deste Manual é orientar e facilitar a utilização</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,114.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text65"><tspan
+             sodipodi:role="line"
+             id="tspan82522"
+             x="0"
+             y="0">correta dos elementos que identificam a marca, facilitan</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,97.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text73"><tspan
+             x="0 6.6329999 13.09 15.686 21.813 24.409 30.535999 37.168999 39.918999 42.668999 48.509998 54.637001 60.5 66.626999 73.084 75.68 81.575996 84.304001 86.900002 92.751999 99.209 105.71 111.287 117.403 124.036 130.537 136.653 143.15401 147.17999 153.29601 163.44901 169.565 176.06599 180.092 185.98801 188.716 191.312 197.439 200.035 206.162 211.728 217.40401 220.15401 230.30701 233.05701 235.80701 241.93401 247.797 253.924 260.38101 262.97699 269.60999 276.06699 280.41199"
+             y="0"
+             sodipodi:role="line"
+             id="tspan71">do a aplicação e, consequentemente, a assimilação por</tspan></text>
+        <text
+           transform="matrix(1,0,0,-1,426.9449,80.0282)"
+           style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text77"><tspan
+             x="0 6.5229998 12.65 17.105 21.131001 27.247 29.843 36.476002 42.932999 45.528999 52.161999 58.662998 65.295998 68.045998 70.795998 76.648003 83.105003 85.700996 91.828003 94.578003 100.012 106.139 108.757"
+             y="0"
+             sodipodi:role="line"
+             id="tspan75">parte do público alvo.</tspan></text>
+      </g>
+      <text
+         transform="matrix(1,0,0,-1,56.6929,37.7977)"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:BentonSans;-inkscape-font-specification:BentonSans-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text99"><tspan
+           x="0"
+           y="0"
+           id="tspan97">3</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.75000002,0,0,-0.75000002,0,595.27601)"
+         id="text2586"
+         style="font-size:66.6667px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';white-space:pre;shape-inside:url(#rect2588)" />
+      <g
+         id="g15-6"
+         inkscape:label="Manual_01"
+         transform="matrix(0.50778735,0,0,0.36823193,-87.672794,411.21538)">
+        <g
+           id="g805"
+           transform="matrix(4.0026714,0,0,4.0050379,-120,-1668.8269)">
+          <path
+             d="M 0,-0.22400251 H 842.25002 V 595.27601 H 0 Z"
+             style="fill:url(#linearGradient3486);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00185"
+             id="path17" />
+          <text
+             transform="scale(1,-1)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Warownia;-inkscape-font-specification:'Warownia Bold';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text21-2"
+             x="82.148743"
+             y="-355.29016"><tspan
+               x="82.148743 91.598747 99.758743 107.19875 128.76874 148.71875 169.41875 189.00874 208.02875 227.61874 250.95874 266.73575 287.40576 308.25574 328.92575"
+               y="-355.29016"
+               sodipodi:role="line"
+               id="tspan19-5">1. APRESENTAÇÃO</tspan></text>
+          <text
+             transform="matrix(1,0,0,-1,713.2604,114.0282)"
+             style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text69-6"><tspan
+               x="0"
+               y="0"
+               id="tspan67-9" /></text>
+          <g
+             id="g94859-6"
+             transform="matrix(1.2469187,0,0,1.2931407,-135.26589,-17.560834)">
+            <text
+               transform="matrix(1,0,0,-1,426.9449,301.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text25-2"><tspan
+                 sodipodi:role="line"
+                 id="tspan23-3"
+                 y="0"
+                 x="0 7.1830001 9.7790003 19.931999 26.059 30.195 36.035999 42.162998 44.758999 50.875 53.471001 59.928001 62.523998 69.156998 75.273003 85.426003 88.022003 98.175003 104.302 107.052 112.728 115.324 120.824 126.951 129.701 132.451 138.798 144.375 150.832 153.42799 160.061 166.562 172.67799 175.274 181.77499 191.92799 198.05499 200.651 206.767 216.92 223.55299 227.689 233.69501 239.261 245.388 247.98399 254.44099 260.94199 263.53799 270.039 280.19199 286.20901"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">A marca é o bem mais valioso que uma empresa ou uma</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,284.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text29-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan27-8"
+                 y="0"
+                 x="0 6.6329999 12.639 18.205 23.782 30.129 36.256001 38.852001 45.485001 51.942001 58.575001 64.691002 67.287003 71.313004 77.429001 81.884003 84.480003 90.596001 93.192001 98.867996 105.369 111.496 114.092 117.293 123.926 130.04201 136.543 140.668 143.418 150.05099 156.17799 162.811 168.927 171.19299 178.332 181.082 186.758 193.259 199.386 202.136 204.73199 210.84801 213.444 217.58 223.586 229.26199 235.895 242.35201 248.853 254.41901 260.436 265.87 271.98599 274.73599 277.332 283.965 290.422 294.767"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">pessoa pode ter e sua Identidade Visual é responsável por</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,267.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text33-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan62624-2"
+                 x="0"
+                 y="0"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">traduzir graficamente toda a essência que ela representa.</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,233.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text37-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan35-9"
+                 y="0"
+                 x="0 7.9749999 18.128 24.254999 26.851 37.004002 43.131001 47.266998 53.108002 59.235001 61.831001 65.350998 71.807999 76.263 80.289001 86.404999 89.000999 95.501999 101.618 107.47 113.476 119.042 124.718 127.468 131.549 137.67599 140.272 146.905 153.021 155.617 162.118 168.619 171.369 174.88901 181.34599 185.80099 195.95399 198.70399 205.33701 211.464 218.097 224.213 226.80901 232.925 235.521 241.373 247.83 253.946 258.082 264.198 270.69901 276.64999 279.39999 285.52701 288.14499"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">Uma marca forte necessita de uniformidade e coerência,</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,216.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text41-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan39-3"
+                 y="0"
+                 x="0 6.6329999 13.09 17.545 20.141001 22.891001 28.457001 34.034 40.491001 43.087002 46.606998 53.063999 57.310001 63.437 73.589996 76.185997 82.137001 86.592003 89.342003 95.469002 102.102 108.449 114.125 116.721 123.244 129.371 136.004 140.162 146.619 152.625 158.30099 160.897 167.53 174.03101 180.147 182.743 188.72701 194.854 199.10001 205.22701 211.728 215.754 221.87 232.02299 234.619 241.252 247.75301 253.869 256.465 260.491 266.948 273.58099 279.92801 285.49399"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">por isso foram criados padrões que garantem que todos</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,199.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:0;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text45-8"><tspan
+                 x="0 6.3470001 12.023 14.619 20.735001 23.485001 29.601 39.754002 45.869999 52.370998 56.396999 62.743999 68.419998 71.015999 77.022003 82.587997 86.613998 92.730003 95.480003 101.607 111.76 114.356 117.106 123.607 127.633 133.74899 140.063 144.30901 150.436 157.069 163.416 169.092 171.688 177.804 187.957 190.55299 194.57899 201.036 207.66901 213.79601 219.472 222.06799 228.19501 233.871 236.467 246.62 252.74699 259.24799 261.99799 265.51801 271.52509"
+                 sodipodi:role="line"
+                 id="tspan43-0"
+                 y="0"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">os elementos estejam integrados em todas as manifes</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,704.1423,199.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text49-2"><tspan
+                 x="0"
+                 y="0"
+                 id="tspan47-5">-</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,182.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+               id="text53-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan2813">tações gráficas - que inclui logotipo, tipografia e cores -</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,165.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text57-5"><tspan
+                 x="0 5.9840002 12.111 16.357 22.483999 28.985001 33.110001 35.860001 42.361 48.993999 55.451 58.047001 64.547997 71.049004 73.799004 77.319 83.776001 88.231003 98.384003 101.134 107.767 113.894 120.527 126.643 129.239 135.355 137.951 144.452 150.57899 155.034 165.187 171.644 178.145 180.895 187.022 189.64"
+                 y="0"
+                 id="tspan55-4"
+                 sodipodi:role="line"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">garantindo uniformidade e harmonia.</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,131.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text61-4"><tspan
+                 x="0 8.2720003 10.868 17.325001 23.958 26.708 32.824001 36.949001 39.699001 45.132999 51.59 54.186001 60.819 66.824997 72.390999 76.417 82.532997 85.128998 94.82 100.947 107.448 113.949 120.076 122.826 125.422 131.53799 134.134 140.591 145.04601 147.79601 153.912 160.41299 164.494 170.621 175.076 177.672 183.78799 186.384 189.90401 196.03101 201.98199 204.73199 207.48199 210.23199 214.3141 220.4411 224.8961 227.4921 233.61909 236.2151 242.71609 246.84109 249.59109 252.34109 255.09109 260.6571 266.78409 272.64819 278.77521 285.12219"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan59-7"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">O objetivo deste Manual é orientar e facilitar a utilização</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,114.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+               id="text65-5"><tspan
+                 sodipodi:role="line"
+                 id="tspan38010">correta dos elementos que identificam a marca, facilitan-</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,97.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text73-7"><tspan
+                 x="0 6.6329999 13.09 15.686 21.813 24.409 30.535999 37.168999 39.918999 42.668999 48.509998 54.637001 60.5 66.626999 73.084 75.68 81.575996 84.304001 86.900002 92.751999 99.209 105.71 111.287 117.403 124.036 130.537 136.653 143.15401 147.17999 153.29601 163.44901 169.565 176.06599 180.092 185.98801 188.716 191.312 197.439 200.035 206.162 211.728 217.40401 220.15401 230.30701 233.05701 235.80701 241.93401 247.797 253.924 260.38101 262.97699 269.60999 276.06699 280.41199"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan71-3"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">do a aplicação e, consequentemente, a assimilação por</tspan></text>
+            <text
+               transform="matrix(1,0,0,-1,426.9449,80.0282)"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'BentonSans Book';-inkscape-font-specification:BentonSans-Book;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="text77-0"><tspan
+                 x="0 6.5229998 12.65 17.105 21.131001 27.247 29.843 36.476002 42.932999 45.528999 52.161999 58.662998 65.295998 68.045998 70.795998 76.648003 83.105003 85.700996 91.828003 94.578003 100.012 106.139 108.757"
+                 y="0"
+                 sodipodi:role="line"
+                 id="tspan75-2"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial">parte do público alvo.</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             transform="matrix(0.75000002,0,0,-0.75000002,0,595.27601)"
+             id="text2586-9"
+             style="font-size:66.6667px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';white-space:pre;shape-inside:url(#rect2588-9)" />
+          <text
+             transform="scale(1.0081172,-0.99194815)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.04315px;font-family:Verdana;-inkscape-font-specification:'Verdana, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;fill:#bebdb4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17386"
+             id="text387"
+             x="11.591561"
+             y="-8.5734463"><tspan
+               sodipodi:role="line"
+               id="tspan44037"
+               x="11.591561"
+               y="-8.5734463">3</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style220">	.st0{fill:#85C9F0;}	.st1{fill:#F3953F;}	.st2{fill:#213C47;}</style>
+  <style
+     type="text/css"
+     id="style220-1">	.st0{fill:#85C9F0;}	.st1{fill:#F3953F;}	.st2{fill:#213C47;}</style>
+</svg>
